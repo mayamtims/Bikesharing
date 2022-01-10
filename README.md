@@ -12,7 +12,7 @@
 
 ![rideduration](https://github.com/mayamtims/Bikesharing/blob/main/images/rideduration.png)
 
-![peakhours](https://github.com/mayamtims/Bikesharing/blob/main/images/peakhours.png)
+![peakhours](https://github.com/mayamtims/Bikesharing/blob/main/images/peakhour.png)
 
 
 #Tableau Public Link
